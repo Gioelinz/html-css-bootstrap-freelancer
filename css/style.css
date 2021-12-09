@@ -15,8 +15,13 @@ header{
 }
 
 .col-md-6.content-portfolio{
-    height: 300px;
-    border: 1px solid dodgerblue;
+    height: 350px;
+}
+
+.img{
+    background-color: dodgerblue;
+    height: 100%;
+    border-radius: 20px;
 }
 
 .about{
@@ -26,5 +31,10 @@ header{
 
 footer{
     background-color: #3A546D;
-    height: 500px;
+    height: 350px;
+}
+
+.copyright-footer{
+    height: 150px;
+    background-color: #2C3E50;
 }
