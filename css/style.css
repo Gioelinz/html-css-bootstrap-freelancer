@@ -18,3 +18,8 @@ header{
     height: 300px;
     border: 1px solid dodgerblue;
 }
+
+.about{
+    background-color: #1ABC9C;
+    height: 550px;
+}
