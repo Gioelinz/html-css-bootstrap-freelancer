@@ -1,4 +1,5 @@
 
+
 header{
     background-color: #2C3E50;
 }
@@ -19,18 +20,8 @@ h1{
     height: 5px;
     width: 12%;
     border-radius: 10px;
-    background-color: #fff;
 }
 
-.col-md-6.content-portfolio{
-    height: 300px;
-}
-
-.img-portfolio{
-    background-color: dodgerblue;
-    height: 100%;
-    border-radius: 20px;
-}
 
 .about{
     background-color: #1ABC9C;
