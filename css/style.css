@@ -8,7 +8,7 @@ header .navbar-brand{
     font-size: 30px;
 }
 
-.jumbo{
+#jumbo{
     background-color: #1ABC9C;
 }
 
@@ -23,8 +23,14 @@ h1{
 }
 
 
-.about{
+#about{
     background-color: #1ABC9C;
+}
+
+#contact .btn-primary{
+    background-color: #1ABC9C;
+    border: 0;
+    font-weight: 500;
 }
 
 footer{
